@@ -17,7 +17,7 @@
     "analyze": "ANALYZE=true next build",
     "serve": "http-server ./out",
     "generate": "node ./tools/generate.js",
-    "prettier": "npx prettier --write \"./**/*.{ts,tsx,js,jsx,json,md}\"",
+    "prettier": "npx prettier --write \"./**/*.{ts,tsx,js,jsx,json,md}\""
   },
   "dependencies": {
     "axios": "0.21.0",
